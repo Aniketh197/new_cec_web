@@ -74,3 +74,11 @@
     background-color: rgb(41, 41, 30);
     overflow: hidden;
 }
+h2{
+    text-align:center;
+    color:white;
+}
+p{
+    text-align:center;
+    color:white;
+}
